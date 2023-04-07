@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Package_DFN_QFN_Extra")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/Package_DFN_QFN_Extra.pretty")(options "")(descr ""))
+)

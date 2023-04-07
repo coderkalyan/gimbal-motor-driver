@@ -3,4 +3,5 @@
   (lib (name "Sensor_Magnetic_Extra")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/Sensor_Magnetic_Extra.kicad_sym")(options "")(descr ""))
   (lib (name "FD6288Q")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/FD6288Q.kicad_sym")(options "")(descr ""))
   (lib (name "Amplifier_Current_Extra")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/Amplifier_Current_Extra.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV71333PDQ")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/TLV71333PDQ.kicad_sym")(options "")(descr ""))
 )
